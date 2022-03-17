@@ -1,9 +1,8 @@
 //Copyright(c) GeorgeDong32(Github).All rights reserved.
-#include <stdlib.h>
 int* doubleCapacity(int* list, int size)
 {
 	int newsize = 2 * size;
-	int* re = (int*)malloc(sizeof(int) * newsize);
+	int* re = new int[newsize];
 	for (int i = 0; i < size; i++)
 	{
 		*(re + i) = *(list + i);
