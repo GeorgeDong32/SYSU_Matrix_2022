@@ -32,7 +32,7 @@ public:
 			dx = 0 - dx;
 		if (dy < 0)
 			dy = 0 - dy;
-		cout << "dx = " << dx << "dy = " << dy << endl;
+		//cout << "dx = " << dx << "dy = " << dy << endl;
 		len = sqrt((double)dx * dx + (double)dy * dy);
 		return len;
 	}
