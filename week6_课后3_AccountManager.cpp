@@ -1,12 +1,12 @@
 #include "AccountManager.hpp"
 #include <iostream>
 using namespace std;
-int AccountManager::ManagerNumber = 0; //static成员，记录所有管理员总数 
+int AccountManager::ManagerNumber = 0; //static鎴愬憳锛岃褰曟墍鏈夌鐞嗗憳鎬绘暟 
 AccountManager::AccountManager()
 {
-	accountNumber = new int; //记录当前开设的账户总数 
+	accountNumber = new int; //璁板綍褰撳墠寮�璁剧殑璐︽埛鎬绘暟 
 	*accountNumber = 0;
-	SuperVipAccount = nullptr; //记录超级Vip账户 
+	SuperVipAccount = nullptr; //璁板綍瓒呯骇Vip璐︽埛 
 }
 
 AccountManager::AccountManager(const AccountManager& om)
@@ -114,7 +114,7 @@ void AccountManager::closeSuperVipAccount()
 
 bool AccountManager::getBalanceOfSuperVipAccount(double& b) const
 {
-	//没有用，可不写
+	//娌℃湁鐢紝鐩存帴涓嶅啓
 	return b;
 }
 
