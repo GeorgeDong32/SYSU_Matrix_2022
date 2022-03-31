@@ -17,7 +17,7 @@ void Account::deposit(double de)
 {
 	balance += de;
 }
-//Copyright (c) GeorgeDong32(Github). All rights reserved.
+
 bool Account::withdraw(double wd)
 {
 	if(wd > balance)
