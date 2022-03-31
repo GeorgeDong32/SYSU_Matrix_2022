@@ -8,3 +8,4 @@ inline void inline_SWAP(int &a, int &b)
 {
 	a ^= b ^= a ^= b;
 }
+//Copyright (c) GeorgeDong32(Github). All rights reserved.
