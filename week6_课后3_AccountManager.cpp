@@ -1,3 +1,4 @@
+//Copyright (c) GeorgeDong32(Github). All rights reserved.
 #include "AccountManager.hpp"
 #include <iostream>
 using namespace std;
@@ -135,3 +136,4 @@ AccountManager::~AccountManager()
 		delete SuperVipAccount;
 	ManagerNumber --;
 }
+//Copyright (c) GeorgeDong32(Github). All rights reserved.
