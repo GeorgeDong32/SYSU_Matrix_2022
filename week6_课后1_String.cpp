@@ -1,3 +1,4 @@
+//Copyright (c) GeorgeDong32(Github). All rights reserved.
 #include "String.h"
 #include <iostream>
 #include <string.h>
@@ -33,3 +34,4 @@ STRING::~STRING()
 {
 	delete []buffer;
 }
+//Copyright (c) GeorgeDong32(Github). All rights reserved.
