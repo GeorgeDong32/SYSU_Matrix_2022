@@ -1,6 +1,6 @@
 # SYSU_Matrix_202203
-#*Copyright (c) GeorgeDong32(Github). All rights reserved.*
-<a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash">
+*Copyright (c) GeorgeDong32(Github). All rights reserved.*
+
 <h1 align="center">
   <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Matrix_title.jpeg" alt="Matrix" width="600">
 </h1>
