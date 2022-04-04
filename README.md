@@ -1,4 +1,4 @@
-# <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Matrix.ico" alt="Matrix" width="64">SYSU_Matrix_202203
+# <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Matrix.ico" alt="Matrix" width="40">SYSU_Matrix_202203
 *Copyright (c) GeorgeDong32(Github). All rights reserved.*
 <h1 align="center">
   <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Matrix_title.jpeg" alt="Matrix" width="600">
