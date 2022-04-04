@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <img src="" alt="Matrix" width="200">
-  <br>Clash<br>
+  <br>Matrix<br>
 </h1>
 
 这是SYSU Matrix系统C++课程三月份练习的部分代码，仅供参考，欢迎提出更优秀的代码并添加到其他分支.如果你觉得他们对你有所启发，别忘了点亮一颗star ^-^
