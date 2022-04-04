@@ -2,7 +2,7 @@
 #*Copyright (c) GeorgeDong32(Github). All rights reserved.*
 
 <h1 align="center">
-  <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="" alt="Matrix" width="200">
   <br>Clash<br>
 </h1>
 
