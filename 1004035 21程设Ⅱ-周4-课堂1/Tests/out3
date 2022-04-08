@@ -1,0 +1,22 @@
+push 49
+pop 49
+stack is empty!
+push 32
+pop 32
+stack is empty!
+push 8
+pop 8
+stack is empty!
+stack is empty!
+stack is empty!
+push 29
+push 73
+push 13
+push 2
+push 33
+s1 is empty: True
+pop 33
+pop 2
+pop 13
+pop 73
+pop 29

@@ -1,0 +1,258 @@
+After adding 2 Oil to house1 >>>
+Oil: 2
+
+After adding 4 Coal to house1 >>>
+Oil: 2
+Coal: 4
+
+After adding 3 Gunpowder to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+
+After adding 6 Leather to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+
+After adding 5 Plastic to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+
+After adding 10 Rubber to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+
+After adding 7 Lewel to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+
+After adding 14 Steel to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+Steel: 14
+
+After adding 11 Iron to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+Steel: 14
+Iron: 11
+
+After adding 22 Copper to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+Steel: 14
+Iron: 11
+Copper: 22
+
+After adding 13 Zinc to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+Steel: 14
+Iron: 11
+Copper: 22
+Zinc: 13
+
+After adding 26 Wood to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+Steel: 14
+Iron: 11
+Copper: 22
+Zinc: 13
+Wood: 26
+
+After adding 17 Glass to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+Steel: 14
+Iron: 11
+Copper: 22
+Zinc: 13
+Wood: 26
+Glass: 17
+
+After adding 34 Fibre to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+Steel: 14
+Iron: 11
+Copper: 22
+Zinc: 13
+Wood: 26
+Glass: 17
+Fibre: 34
+
+After adding 19 Grass to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+Steel: 14
+Iron: 11
+Copper: 22
+Zinc: 13
+Wood: 26
+Glass: 17
+Fibre: 34
+Grass: 19
+
+After adding 38 Eletronic to house1 >>>
+Oil: 2
+Coal: 4
+Gunpowder: 3
+Leather: 6
+Plastic: 5
+Rubber: 10
+Lewel: 7
+Steel: 14
+Iron: 11
+Copper: 22
+Zinc: 13
+Wood: 26
+Glass: 17
+Fibre: 34
+Grass: 19
+Eletronic: 38
+
+After adding 2 Oil to house2 >>>
+Oil: 2
+
+After adding 3 Gunpowder to house2 >>>
+Oil: 2
+Gunpowder: 3
+
+After adding 5 Plastic to house2 >>>
+Oil: 2
+Gunpowder: 3
+Plastic: 5
+
+After adding 7 Lewel to house2 >>>
+Oil: 2
+Gunpowder: 3
+Plastic: 5
+Lewel: 7
+
+After adding 11 Iron to house2 >>>
+Oil: 2
+Gunpowder: 3
+Plastic: 5
+Lewel: 7
+Iron: 11
+
+After adding 13 Zinc to house2 >>>
+Oil: 2
+Gunpowder: 3
+Plastic: 5
+Lewel: 7
+Iron: 11
+Zinc: 13
+
+After adding 17 Glass to house2 >>>
+Oil: 2
+Gunpowder: 3
+Plastic: 5
+Lewel: 7
+Iron: 11
+Zinc: 13
+Glass: 17
+
+After adding 19 Grass to house2 >>>
+Oil: 2
+Gunpowder: 3
+Plastic: 5
+Lewel: 7
+Iron: 11
+Zinc: 13
+Glass: 17
+Grass: 19
+
+house2 >= house1? : false
+After adding house1 and house2 to house3 >>>
+Oil: 4
+Coal: 4
+Gunpowder: 6
+Leather: 6
+Plastic: 10
+Rubber: 10
+Lewel: 14
+Steel: 14
+Iron: 22
+Copper: 22
+Zinc: 26
+Wood: 26
+Glass: 34
+Fibre: 34
+Grass: 38
+Eletronic: 38
+
+house3 >= house1? : true
+After initializing house4 with house3 >>>
+Oil: 4
+Coal: 4
+Gunpowder: 6
+Leather: 6
+Plastic: 10
+Rubber: 10
+Lewel: 14
+Steel: 14
+Iron: 22
+Copper: 22
+Zinc: 26
+Wood: 26
+Glass: 34
+Fibre: 34
+Grass: 38
+Eletronic: 38
+
