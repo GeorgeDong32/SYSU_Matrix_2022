@@ -3,8 +3,9 @@
 <h1 align="center">
   <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Matrix_title.jpeg" alt="Matrix" width="600">
 </h1>
-本仓库遵循MIT License，你可以在[Licence]()处查看.
+本仓库遵循MIT License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/add-license-1/LICENSE)处查看.
 注意！商用行为不包含未经作者允许的出售源代码的行为！
+
 快速访问：[Matrix.sysu](https://matrix.sysu.edu.cn/login)（需拥有Matrix账号）
 
 [Access SYSU Matrix on here](https://matrix.sysu.edu.cn/login)（requires Matrix account）
