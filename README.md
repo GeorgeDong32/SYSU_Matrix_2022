@@ -5,7 +5,7 @@
 </h1>
 
 本仓库遵循MIT License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/add-license-1/LICENSE) 处查看.
-注意！商用行为不包含未经作者允许的出售源代码的行为！
+注意！商用行为不包含未经作者允许的出售源代码的行为！此外Matrix图标和图片及题目本身版权归属Matrix.sysu.edu.cn所有。
 
 快速访问：[Matrix.sysu](https://matrix.sysu.edu.cn/login)（需拥有Matrix账号）
 
