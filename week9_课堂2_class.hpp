@@ -2,7 +2,11 @@
 #define __CLASS_HPP__
 #include <iostream>
 using std::cout; using std::endl;
-
+/*********************************************************
+*                                                        *
+* Copyright(c) GeorgeDong32(Github).All rights reserved. *
+*                                                        *
+**********************************************************/
 class Wheel
 {
 public:
