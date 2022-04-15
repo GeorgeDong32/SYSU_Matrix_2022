@@ -1,5 +1,9 @@
 #include "BASE.h"
-
+/*********************************************************
+*                                                        *
+* Copyright(c) GeorgeDong32(Github).All rights reserved. *
+*                                                        *
+**********************************************************/
 BASE::BASE(int p1, int p2)
 {
 	mem1 = p1;

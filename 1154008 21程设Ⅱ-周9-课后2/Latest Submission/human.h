@@ -1,20 +1,21 @@
-#include "DERIVED.h"
+#ifndef __HUMAN_H__
+#define __HUMAN_H__
 /*********************************************************
 *                                                        *
 * Copyright(c) GeorgeDong32(Github).All rights reserved. *
 *                                                        *
 **********************************************************/
-DERIVED::DERIVED(int x1, int x2, int x3, int x4, int x5): BASE(x1, x2), mem4(x3, x4), mem3(x5) {}
+#include "animal.h"
 
-int DERIVED::inc1()
-{
-	BASE::inc1();
-	return 1;
-}
+class human: public animal {
+private:
+	string _name;
+public:
+	human(string n): animal("Human", 2), _name(n){}
+	void greeting() const
+	{
+		cout << "Hello, I'm " << _name << "." << endl;
+	}
+};
 
-void DERIVED::display() const
-{
-	BASE::display();
-	mem4.display();
-	cout << "mem3=" << mem3 << endl;
-}
+#endif
