@@ -5,6 +5,6 @@
 </h1>
 
 ## Questions branch
-
-* 此分支用于存放Matrix的问题源码，部分过期问题的答案包含在内，仅供学习参考使用！
-* 此分支题目及标准答案版权归属 matrix.sysu.edu.cn. "Latest Submission"文件夹中的答案版权属于GeorgeDong32. 
+*此分支用于存放Matrix的问题源码，部分过期问题的答案包含在内，仅供学习参考使用！*
+### 此分支题目及标准答案版权归属 matrix.sysu.edu.cn. 因此此分支不遵守MIT License!
+### "Latest Submission"文件夹中的答案版权属于GeorgeDong32. 
