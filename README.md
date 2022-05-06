@@ -1,7 +1,7 @@
-# <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Matrix.ico" alt="Matrix.ico" width="32">SYSU_Matrix
+# <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix.ico" alt="Matrix.ico" width="32">SYSU_Matrix
 *Copyright (c) GeorgeDong32(Github). All rights reserved.*
 <h1 align="center">
-  <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Matrix_title.jpeg" alt="Matrix" width="600">
+  <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix_title.jpeg" alt="Matrix" width="600">
 </h1>
 
 本仓库遵循MIT License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/add-license-1/LICENSE) 处查看.
