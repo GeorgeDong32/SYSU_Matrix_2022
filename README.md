@@ -1,8 +1,11 @@
-# <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix.ico" alt="Matrix.ico" width="32">SYSU_Matrix
-*Copyright (c) GeorgeDong32(Github). All rights reserved.*
 <h1 align="center">
-  <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix_title.jpeg" alt="Matrix" width="600">
+
+<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix.ico" alt="Matrix.ico" width="32">SYSU_Matrix
+  
+<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix_title.jpeg" alt="Matrix" width="600">
 </h1>
+
+*Copyright (c) GeorgeDong32(Github). All rights reserved.*
 
 本仓库遵循MIT License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/add-license-1/LICENSE) 处查看.
 注意！商用行为不包含未经作者允许的出售源代码的行为！此外Matrix图标和图片及"Questions"分支中题目及其文件版权归属Matrix.sysu.edu.cn所有,相关内容不遵循MIT License.
