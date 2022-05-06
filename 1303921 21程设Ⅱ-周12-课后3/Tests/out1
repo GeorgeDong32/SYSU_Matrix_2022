@@ -1,0 +1,5 @@
+Prin come from class B
+B::~B()called
+A::~A()called
+B::~B()called
+A::~A()called
