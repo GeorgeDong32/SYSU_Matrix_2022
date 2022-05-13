@@ -1,0 +1,101 @@
+*************** Testing class Creature ***************
+A Creature has been created!
+It has 2 hand(s)!
+It has 2 leg(s)!
+Calling GetHands(): 2
+Calling GetLegs(): 2
+Creature object exiled!
+
+*************** Testing class Beast ***************
+A Creature has been created!
+It has 2 hand(s)!
+It has 4 leg(s)!
+Its beast name is SpiderKing
+Calling GetHands(): 2
+Calling GetLegs(): 4
+Beast object exiled!
+Creature object exiled!
+
+A Creature has been created!
+It has 2 hand(s)!
+It has 3 leg(s)!
+Its beast name is TripleLegCat
+Calling GetHands(): 2
+Calling GetLegs(): 3
+Calling GetName(): TripleLegCat
+Beast object exiled!
+Creature object exiled!
+
+*************** Testing class Human ***************
+A Creature has been created!
+It has 2 hand(s)!
+It has 2 leg(s)!
+Its human name is Talion
+Calling GetHands(): 2
+Calling GetLegs(): 2
+Human object exiled!
+Creature object exiled!
+
+A Creature has been created!
+It has 2 hand(s)!
+It has 2 leg(s)!
+Its human name is Altariel
+Calling GetHands(): 2
+Calling GetLegs(): 2
+Calling GetName(): Altariel
+Human object exiled!
+Creature object exiled!
+
+*************** Testing class Orc ***************
+A Creature has been created!
+It has 2 hand(s)!
+It has 4 leg(s)!
+Its beast name is Herkarim
+Its human name is Centaur
+Calling GetHands(): 2
+Calling GetLegs(): 4
+Orc object exiled!
+Human object exiled!
+Beast object exiled!
+Creature object exiled!
+
+A Creature has been created!
+It has 2 hand(s)!
+It has 2 leg(s)!
+Its beast name is OgreMagi
+Its human name is BlueFat
+Calling GetHands(): 2
+Calling GetLegs(): 2
+Calling GetName(): OgreMagi
+Orc object exiled!
+Human object exiled!
+Beast object exiled!
+Creature object exiled!
+
+A Creature has been created!
+It has 4 hand(s)!
+It has 2 leg(s)!
+Its beast name is Miranda
+Its human name is NotreDame
+Calling GetHands(): 4
+Calling GetLegs(): 2
+Calling GetName(): NotreDame
+Orc object exiled!
+Human object exiled!
+Beast object exiled!
+Creature object exiled!
+
+A Creature has been created!
+It has 2 hand(s)!
+It has 0 leg(s)!
+Its beast name is Cassiopea
+Its human name is SnakeWoman
+Calling GetHands(): 2
+Calling GetLegs(): 0
+Calling GetBeastName(): Cassiopea
+Calling GetHumanName(): SnakeWoman
+Orc object exiled!
+Human object exiled!
+Beast object exiled!
+Creature object exiled!
+
