@@ -12,7 +12,7 @@
 
 > 快速访问：[Matrix.sysu](https://matrix.sysu.edu.cn/login)（需拥有Matrix账号）
 ## 开源与版权划分
-本仓库遵循MIT License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/add-license-1/LICENSE) 处查看.
+本仓库遵循MIT License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE) 处查看.
 
 注意！MIT License中的商用行为不包含未经作者允许的出售源代码的行为.
 
@@ -32,7 +32,7 @@ These codes are the codes for the SYSU Matrix system C++ course, for reference o
 > [Access SYSU Matrix on here](https://matrix.sysu.edu.cn/login)（requires Matrix account）
 
 ## Open Source and Copyright
-This repository is under the MIT License, you can check it at [Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/add-license-1/LICENSE).
+This repository is under the MIT License, you can check it at [Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE).
 
 Notice! Commercial behavior does not include the sale of source code without the author's permission.
 
