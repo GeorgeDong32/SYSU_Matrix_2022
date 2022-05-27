@@ -22,6 +22,9 @@
 * 如果你需要寻找最近一次的答案，请前往[Latest Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/Latest%20Codes)文件夹
 * 如果你需要过去一段时间的答案，请前往[All Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/All%20Codes)文件夹
 * 如果你需要获取题目，请前往[Questions](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/Questions)分支寻找，里面已经按周分类，可能不含课堂题
+<h1 align="center">
+<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/All_Finished.png" alt="Finished" width="300">
+</h1>
 
 -----------------------
 # For Non-Chinese
