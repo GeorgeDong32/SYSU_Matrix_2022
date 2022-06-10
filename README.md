@@ -8,5 +8,5 @@
 > 此分支用于存放Matrix的问题源码，部分过期问题的答案包含在内
 > 
 > 资料仅供学习交流使用，严禁出售等商业行为，转载和引用请标明出处
-### 此分支题目及标准答案版权归属 matrix.sysu.edu.cn. 因此此分支不遵守MIT License!
+### 此分支题目及标准答案版权归属 matrix.sysu.edu.cn. 因此此分支不遵守GPL License!
 ### "Latest Submission"文件夹中的答案版权属于GeorgeDong32. 
