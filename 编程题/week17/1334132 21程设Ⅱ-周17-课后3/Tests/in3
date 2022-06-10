@@ -1,0 +1,17 @@
+16
+new -9
+new -8
+add -9 0
+add -9 1
+add -9 1
+add -8 1
+add -8 1
+out -8
+out -9
+unique -9
+unique -8
+out -8
+out -9
+merge -9 -8
+out -9
+out -8

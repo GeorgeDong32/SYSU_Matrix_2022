@@ -1,0 +1,16 @@
+15
+InsertRoom1 20220610
+CancelRoom2 20220610
+InsertRoom2 20220611 Academic research
+CancelRoom1 20220611
+InsertRoom1 20220611
+InsertRoom2 20220610 Quantum reaction experiment
+PrintRoom1
+PrintRoom2
+InsertRoom2 20220611 Satellite launch test
+CancelRoom2 20220611
+InsertRoom2 20220611 Satellite launch test
+InsertRoom2 20220611 Geological survey
+InsertRoom2 20220612 Geological survey
+InsertRoom2 20220609 Czar nuclear power test
+PrintRoom2

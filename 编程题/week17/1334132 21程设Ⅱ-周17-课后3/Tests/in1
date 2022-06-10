@@ -1,0 +1,17 @@
+16 
+new 1 
+new 2 
+add 1 1 
+add 1 2 
+add 1 3 
+add 2 1 
+add 2 2 
+add 2 3 
+add 2 4 
+out 1 
+out 2 
+merge 1 2 
+out 1 
+out 2 
+unique 1 
+out 1

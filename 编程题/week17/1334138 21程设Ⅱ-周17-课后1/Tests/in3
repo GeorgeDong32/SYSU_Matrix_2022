@@ -1,0 +1,21 @@
+20
+InsertRoom1 20220701
+InsertRoom1 20220601
+InsertRoom1 20220616
+InsertRoom1 20220606
+InsertRoom1 20220626
+InsertRoom1 20220701
+InsertRoom1 20220601
+CancelRoom1 20220616
+CancelRoom1 20220616
+PrintRoom1
+InsertRoom2 20220701 Cosmic ray
+InsertRoom2 20220731 Markovian triangle
+InsertRoom2 20220711 Muscle exercise
+InsertRoom2 20220721 Cupping
+InsertRoom2 20220711 Bathing
+CancelRoom2 20220711
+CancelRoom2 20220711
+InsertRoom2 20220711 Bathing
+InsertRoom2 20220712 Bathing
+PrintRoom2

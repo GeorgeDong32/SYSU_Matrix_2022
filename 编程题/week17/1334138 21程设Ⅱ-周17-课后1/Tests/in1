@@ -1,0 +1,11 @@
+10
+InsertRoom1 20220601
+InsertRoom2 20220601 Meeting
+InsertRoom1 20220602
+InsertRoom2 20220602 Play LOL
+InsertRoom1 20220601
+InsertRoom2 20220601 Keep fit with exercise
+CancelRoom2 20220602
+CancelRoom2 20220603
+PrintRoom1
+PrintRoom2
