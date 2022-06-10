@@ -12,11 +12,11 @@
 
 > 快速访问：[Matrix.sysu](https://matrix.sysu.edu.cn/login)（需拥有Matrix账号）
 ## 开源与版权划分
-本仓库遵循MIT License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE) 处查看.
+本仓库遵循GPL License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE) 处查看.
 
-注意！MIT License中的商用行为不包含未经作者允许的出售源代码的行为.
+注意！GPL License中的商用行为不包含未经作者允许的出售源代码的行为.
 
-此外Matrix图标和图片及"Questions"分支中题目及其文件版权归属Matrix.sysu.edu.cn所有,相关内容不遵循MIT License.
+此外Matrix图标和图片及"Questions"分支中题目及其文件版权归属Matrix.sysu.edu.cn所有,相关内容不遵循GPL License.
 
 ## 使用指南
 * 如果你需要寻找最近一次的答案，请前往[Latest Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/Latest%20Codes)文件夹
@@ -35,11 +35,11 @@ These codes are the codes for the SYSU Matrix system C++ course, for reference o
 > [Access SYSU Matrix on here](https://matrix.sysu.edu.cn/login)（requires Matrix account）
 
 ## Open Source and Copyright
-This repository is under the MIT License, you can check it at [Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE).
+This repository is under the GPL License, you can check it at [Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE).
 
 Notice! Commercial behavior does not include the sale of source code without the author's permission.
 
-In addition, the copyrights of the Matrix icons and pictures and the titles and files in the "Questions" branch belong to Matrix.sysu.edu.cn, and the relevant content does not follow the MIT License.
+In addition, the copyrights of the Matrix icons and pictures and the titles and files in the "Questions" branch belong to Matrix.sysu.edu.cn, and the relevant content does not follow the GPL License.
 
 ## Guidances & Tips
 * If you need to find the latest answer, please go to the [Latest Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/Latest%20Codes) folder
