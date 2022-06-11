@@ -1,13 +1,16 @@
 <h1 align="center">
 
 <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix.ico" alt="Matrix.ico" width="32">SYSU_Matrix
-  
+
 <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix_title.jpeg" alt="Matrix" width="600">
 </h1>
 
 > **Copyright (c) GeorgeDong32(Github). All rights reserved.**
 ## 简介
-这是SYSU Matrix系统C++课程练习的部分代码，仅供参考，欢迎提出更优秀的代码并添加到"others"分支.如果你觉得他们对你有所启发，别忘了点亮一颗star ^-^
+这是SYSU Matrix系统C++课程练习的部分代码，仅供参考
+
+如果你觉得他们对你有所启发，别忘了点亮一颗star ^-^
+
 > 全文点击蓝色文字都可以直接传送！
 
 > 快速访问：[Matrix.sysu](https://matrix.sysu.edu.cn/login)（需拥有Matrix账号）
