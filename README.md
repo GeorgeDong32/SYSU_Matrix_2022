@@ -6,6 +6,8 @@
 </h1>
 
 > **Copyright (c) GeorgeDong32(Github). All rights reserved.**
+>
+> **For detailed copyright information, please check the copyright mark in each file.**
 ## 简介
 这是SYSU Matrix系统C++课程练习的部分代码，仅供参考
 
