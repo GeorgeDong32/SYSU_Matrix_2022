@@ -22,10 +22,18 @@
 此外Matrix图标和图片及"Questions"分支中题目及其文件版权归属Matrix.sysu.edu.cn所有,相关内容不遵循GPL License.
 
 ## 使用指南
+
 * 如果你需要寻找最近一次的答案，请前往[Latest Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/Latest%20Codes)文件夹
 * 如果你需要过去一段时间的答案，请前往[All Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/All%20Codes)文件夹
 * 如果你需要获取题目，请前往[Questions](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/Questions)分支寻找，里面已经按周分类，可能不含课堂题
 * 如果你想要提交你的代码以及参与repo维护，请前往[CONTRIBUTING.md](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/CONTRIBUTING.md)查阅贡献文档
+
+## 致谢
+
+感谢下列成员对仓库做出的贡献（排名不分先后）
+
+[@FrozenZongzi](https://github.com/FrozenZongzi) 
+
 <h1 align="center">
 <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/All_Finished.png" alt="Finished" width="300">
 </h1>
@@ -50,3 +58,7 @@ In addition, the copyrights of the Matrix icons and pictures and the titles and 
 * If you need answers from the past period, please go to the [All Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/All%20Codes) folder
 * If you need to get questions, please go to the [Questions](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/Questions) branch to find them, which have been classified by week and may not contain class questions
 * If you want to submit your code and participate in repo maintenance, please go to [CONTRIBUTING.md](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/CONTRIBUTING.md) to check the contribution document
+
+## Thanks
+
+[@FrozenZongzi](https://github.com/FrozenZongzi) 
