@@ -34,9 +34,6 @@
 
 [@FrozenZongzi](https://github.com/FrozenZongzi) 
 
-<h1 align="center">
-<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/All_Finished.png" alt="Finished" width="300">
-</h1>
 
 -----------------------
 # For Non-Chinese
