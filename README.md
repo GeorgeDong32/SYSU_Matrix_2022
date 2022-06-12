@@ -38,7 +38,7 @@
 
 ## 感谢Stars
 
-[![Stargazers repo roster for @GeorgeDong32/SYSU_Matrix_2022](https://reporoster.com/stars/dark/GeorgeDong32/SYSU_Matrix_2022)](https://github.com/GeorgeDong32/SYSU_Matrix_2022/stargazers)
+[![Stargazers repo roster for @GeorgeDong32/SYSU_Matrix_2022](https://reporoster.com/stars/GeorgeDong32/SYSU_Matrix_2022)](https://github.com/GeorgeDong32/SYSU_Matrix_2022/stargazers)
 
 
 -----------------------
