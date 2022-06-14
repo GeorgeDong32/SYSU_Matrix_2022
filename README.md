@@ -25,10 +25,10 @@
 
 ## 使用指南
 
-* 如果你需要寻找最近一次的答案，请前往[Latest Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/Latest%20Codes)文件夹
-* 如果你需要过去一段时间的答案，请前往[All Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/All%20Codes)文件夹
-* 如果你需要获取题目，请前往[Questions](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/Questions)分支寻找，里面已经按周分类，可能不含课堂题
-* 如果你想要提交你的代码以及参与repo维护，请前往[CONTRIBUTING.md](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/CONTRIBUTING.md)查阅贡献文档
+* 如果你需要寻找最近一次的答案，请前往[`Latest Codes`](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/Latest%20Codes)文件夹
+* 如果你需要过去一段时间的答案，请前往[`All Codes`](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/All%20Codes)文件夹
+* 如果你需要获取题目，请前往[`Questions`](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/Questions)分支寻找，里面已经按周分类，可能不含课堂题
+* 如果你想要提交你的代码以及参与repo维护，请前往[`CONTRIBUTING.md`](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/CONTRIBUTING.md)查阅贡献文档
 
 ## 致谢
 
@@ -57,10 +57,10 @@ Notice! Commercial behavior does not include the sale of source code without the
 In addition, the copyrights of the Matrix icons and pictures and the titles and files in the "Questions" branch belong to Matrix.sysu.edu.cn, and the relevant content does not follow the GPL License.
 
 ## Guidances & Tips
-* If you need to find the latest answer, please go to the [Latest Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/Latest%20Codes) folder
-* If you need answers from the past period, please go to the [All Codes](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/All%20Codes) folder
-* If you need to get questions, please go to the [Questions](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/Questions) branch to find them, which have been classified by week and may not contain class questions
-* If you want to submit your code and participate in repo maintenance, please go to [CONTRIBUTING.md](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/CONTRIBUTING.md) to check the contribution document
+* If you need to find the latest answer, please go to the [`Latest Codes`](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/Latest%20Codes) folder
+* If you need answers from the past period, please go to the [`All Codes`](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/main/All%20Codes) folder
+* If you need to get questions, please go to the [`Questions`](https://github.com/GeorgeDong32/SYSU_Matrix_2022/tree/Questions) branch to find them, which have been classified by week and may not contain class questions
+* If you want to submit your code and participate in repo maintenance, please go to [`CONTRIBUTING.md`](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/CONTRIBUTING.md) to check the contribution document
 
 ## Thanks
 
