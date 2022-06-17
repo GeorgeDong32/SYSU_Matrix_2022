@@ -1,0 +1,10 @@
+No.1 Command: Squeue after Push(1): Head->1->Tail
+No.2 Command: Squeue after Push(2): Head->1->2->Tail
+No.3 Command: Squeue after Push(3): Head->1->2->3->Tail
+No.4 Command: Squeue after Pop(): Head->2->3->Tail
+No.5 Command: Front element of Squeue: 2
+No.6 Command: Back element of Squeue: 3
+No.7 Command: Squeue after Pop(): Head->3->Tail
+No.8 Command: Squeue after Push(4): Head->3->4->Tail
+No.9 Command: Front element of Squeue: 3
+No.10 Command: Back element of Squeue: 4
