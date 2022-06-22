@@ -30,4 +30,3 @@ ostream& rightform(ostream& strm)
 	strm << right << setprecision(2);
 	return strm;
 }
-

@@ -4,12 +4,12 @@ using namespace std;
 class Cat
 {
 public:
-	//数据
+	//鏁版嵁
 	string cat_name;
 	int cat_age;
 	Cat* next;
 	friend class CatFamily;
-	//函数
+	//鍑芥暟
 	Cat()
 	{
 		cat_age = 0;
@@ -26,11 +26,11 @@ public:
 class CatFamily
 {
 public:
-	//数据
+	//鏁版嵁
 	Cat* pfirst_cat;
 	Cat* plast_cat;
 	int cat_count;
-	//函数
+	//鍑芥暟
 	CatFamily()
 	{
 		cat_count = 0;

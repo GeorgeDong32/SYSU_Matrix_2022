@@ -2,6 +2,8 @@
 #include <math.h>
 using namespace std;
 
+
+
 TwoDPoint::TwoDPoint(int nx, int ny)
 {
 	x = nx; y = ny;
