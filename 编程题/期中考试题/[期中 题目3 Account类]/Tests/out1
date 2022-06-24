@@ -1,0 +1,9 @@
+Account ID 0, Balance 0.00, Annual Interest Rate 0.00
+Account ID 2121, Balance 500.00, Annual Interest Rate 3.87
+300.00$ has been withdrawn! Balance of account 2121 is 200.00
+500.00$ has been withdrawn! Balance of account 2126 is 0.00  
+603.40$ has been deposited! Balance of account 2126 is 603.40  
+Transferring failed: balance of account 2121 is not enough!    
+Account ID 2126, Balance 603.40, Annual Interest Rate 3.87     
+300.00$ has been transferred! Balance of account 2126 is 303.40
+Account ID 2121, Balance 500.00, Annual Interest Rate 3.87
