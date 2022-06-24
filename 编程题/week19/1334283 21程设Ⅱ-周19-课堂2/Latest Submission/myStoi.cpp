@@ -9,20 +9,6 @@ int myStoi(string dnum)
 {
 	int re = 0;
 	int sl = dnum.length(); int checks = 1;
-	if (sl >= 11)
-	{
-		if (dnum[0] == '-' || dnum[0] == '+')
-		{
-			if (dnum[1] >= 3)
-			{
-				throw MyException("Exception : stoi argument out of range").what();
-			}
-		}
-		else if(dnum[0] >= 1)
-		{
-			throw MyException("Exception : stoi argument out of range").what();
-		}
-	}
 	for (int i = 0; i < sl; i++)
 	{
 		if (dnum[i] < '0' || dnum[i] > '9')
@@ -41,10 +27,6 @@ int myStoi(string dnum)
 			checks *= 1;
 		}
 	}
-	if (checks == 0)
-	{
-		throw MyException("Exception : invalid stoi argument").what();
-	}
 	try
 	{
 		re = stoi(dnum);
@@ -60,6 +42,10 @@ int myStoi(string dnum)
 	catch (...)
 	{
 		return re;
+	}
+	if (checks == 0)
+	{
+		throw MyException("Exception : invalid stoi argument").what();
 	}
 	return re;
 }
