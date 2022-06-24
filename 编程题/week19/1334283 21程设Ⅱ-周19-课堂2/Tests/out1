@@ -1,0 +1,7 @@
+123 -> 123    
+  -123 -> -123
+Input:++34 ; Exception : invalid stoi argument
+Input: ; Exception : invalid stoi argument
+Input:7878cici9 ; Exception : invalid stoi argument
+Input:-2147483649 ; Exception : stoi argument out of range
+120 -> 120
