@@ -1,0 +1,6 @@
+print StudentList:
+student0: xiaoming 10
+
+print StudentList:
+student0: xiaoming 10
+student1: xiaohong 12
