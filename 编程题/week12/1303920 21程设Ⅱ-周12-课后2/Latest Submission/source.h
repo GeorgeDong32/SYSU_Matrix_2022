@@ -1,11 +1,6 @@
 #pragma once
 #include <string.h>
 #include <cstring>
-/*********************************************************
-*                                                        *
-* Copyright(c) GeorgeDong32(Github).All rights reserved. *
-*                                                        *
-**********************************************************/
 class base
 {
 private:

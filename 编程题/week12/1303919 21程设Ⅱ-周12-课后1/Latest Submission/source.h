@@ -2,11 +2,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-/*********************************************************
-*                                                        *
-* Copyright(c) GeorgeDong32(Github).All rights reserved. *
-*                                                        *
-**********************************************************/
+
 class SortByPrice : public SortInterface {
 public:
 	virtual void DoSort(TaoBaoItem item[], int size)

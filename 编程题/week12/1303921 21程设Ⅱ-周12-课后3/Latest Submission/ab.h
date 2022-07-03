@@ -1,11 +1,7 @@
 #pragma once
 #include <iostream>
 using std::cout; using std::endl;
-/*********************************************************
-*                                                        *
-* Copyright(c) GeorgeDong32(Github).All rights reserved. *
-*                                                        *
-**********************************************************/
+
 class A {
 public:
 	virtual void Prin() {
