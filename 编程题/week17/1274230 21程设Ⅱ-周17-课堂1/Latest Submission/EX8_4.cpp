@@ -2,11 +2,7 @@
 #include <deque>
 #include <iostream>          // elementAccessDemo  8.4.cpp
 using namespace std;
-/*********************************************************
-*                                                        *
-* Copyright(c) GeorgeDong32(Github).All rights reserved. *
-*                                                        *
-**********************************************************/
+
 int main() {
 	vector<int> ivec;	      // 创建空的vector容器，用于存放int型对象
 	deque<string> sdeq;       // 创建空的deque容器，用于存放string型对象

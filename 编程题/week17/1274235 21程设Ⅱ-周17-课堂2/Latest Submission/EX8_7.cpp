@@ -1,11 +1,6 @@
 #include <iostream>
 #include <map>
 using namespace std;
-/*********************************************************
-*                                                        *
-* Copyright(c) GeorgeDong32(Github).All rights reserved. *
-*                                                        *
-**********************************************************/
 int main() {
 	map <char, int>m;
 	int i;
