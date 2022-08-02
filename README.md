@@ -19,7 +19,7 @@
 
 > 快速访问：[Matrix.sysu](https://matrix.sysu.edu.cn/login)（需拥有Matrix账号）
 ## 开源与版权划分
-<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png" alt="Matrix" width="1200">
+<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png" alt="repo-License" width="1200">
 
 本仓库遵循GPL License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE) 处查看.
 
@@ -54,7 +54,7 @@ These codes are the codes for the SYSU Matrix system C++ course, for reference o
 > [Access SYSU Matrix on here](https://matrix.sysu.edu.cn/login)（requires Matrix account）
 
 ## Open Source and Copyright
-<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png" alt="Matrix" width="1200">
+<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png" alt="repo-License" width="1200">
 
 This repository is under the GPL License, you can check it at [Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE).
 
