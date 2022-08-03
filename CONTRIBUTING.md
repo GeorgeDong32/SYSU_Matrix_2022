@@ -21,6 +21,7 @@
 ### 一些你需要知道的
 
 #### 开源与开源证书
+<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png" alt="repo-License" width="1200">
 
 你提交的代码将会成为本开源仓库的一部分，它们将遵守 `GNU General Public License v3.0` 证书，具体可见  [`License`](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE) 
 
