@@ -45,7 +45,8 @@
 
 ## 感谢Stars
 
-[![Stargazers repo roster for @GeorgeDong32/SYSU_Matrix_2022](https://reporoster.com/stars/GeorgeDong32/SYSU_Matrix_2022)](https://github.com/GeorgeDong32/SYSU_Matrix_2022/stargazers)
+![Stargazers repo roster for @GeorgeDong32/SYSU_Matrix_2022](https://reporoster.com/stars/GeorgeDong32/SYSU_Matrix_2022#gh-light-mode-only)
+![Stargazers](https://reporoster.com/stars/dark/GeorgeDong32/SYSU_Matrix_2022#gh-dark-mode-only)
 
 ## 开源证书
 <img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png" alt="repo-License" width="1200">
