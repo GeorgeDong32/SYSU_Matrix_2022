@@ -21,7 +21,7 @@
 ## 开源与版权划分
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/SYSU_Matrix_2022_LICENSE_D.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/SYSU_Matrix_2022_LICENSE_Dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
   <img alt="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE" src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
 </picture>
@@ -63,7 +63,7 @@ These codes are the codes for the SYSU Matrix system C++ course, for reference o
 
 ## Open Source and Copyright
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/SYSU_Matrix_2022_LICENSE_D.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/SYSU_Matrix_2022_LICENSE_Dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
   <img alt="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE" src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
 </picture>
