@@ -20,9 +20,11 @@
 > 快速访问：[Matrix.sysu](https://matrix.sysu.edu.cn/login)（需拥有Matrix账号）
 ## 开源与版权划分
 
-<h1 align="center">
-    <img src="https://github.com/GeorgeDong32/Public-Resources/blob/main/SYSU_Matrix_2022_licenses.svg" width="400" alt="repo license" align=''>
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/SYSU_Matrix_2022_LICENSE_D.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
+  <img alt="repo Stargazers" src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
+</picture>
 
 本仓库遵循GPL License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE) 处查看.
 
@@ -51,9 +53,6 @@
   <img alt="repo Stargazers" src="https://reporoster.com/stars/GeorgeDong32/SYSU_Matrix_2022">
 </picture>
 
-## 开源证书
-<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png" alt="repo-License" width="1200">
-
 -----------------------
 # For Non-Chinese
 
@@ -63,9 +62,11 @@ These codes are the codes for the SYSU Matrix system C++ course, for reference o
 > [Access SYSU Matrix on here](https://matrix.sysu.edu.cn/login)（requires Matrix account）
 
 ## Open Source and Copyright
-<h1 align="center">
-    <img src="https://github.com/GeorgeDong32/Public-Resources/blob/main/SYSU_Matrix_2022_licenses.svg" width="400" alt="repo license" align=''>
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/SYSU_Matrix_2022_LICENSE_D.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
+  <img alt="repo Stargazers" src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
+</picture>
 
 This repository is under the GPL License, you can check it at [Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE).
 
@@ -82,6 +83,3 @@ In addition, the copyrights of the Matrix icons and pictures and the titles and 
 ## Thanks
 
 [@FrozenZongzi](https://github.com/FrozenZongzi) 
-
-## License
-<img src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png" alt="repo-License" width="1200">
