@@ -23,7 +23,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/SYSU_Matrix_2022_LICENSE_D.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
-  <img alt="repo Stargazers" src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
+  <img alt="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE" src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
 </picture>
 
 本仓库遵循GPL License，你可以在[Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE) 处查看.
@@ -65,7 +65,7 @@ These codes are the codes for the SYSU Matrix system C++ course, for reference o
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/SYSU_Matrix_2022_LICENSE_D.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
-  <img alt="repo Stargazers" src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
+  <img alt="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE" src="https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/Pics/Matrix-License.png">
 </picture>
 
 This repository is under the GPL License, you can check it at [Licence](https://github.com/GeorgeDong32/SYSU_Matrix_2022/blob/main/LICENSE).
